@@ -4,7 +4,7 @@ An end-to-end data engineering and analytics project on Azure: incremental inges
 
 > **Note:** The business is hypothetical and **all data is synthetic**. No real customer data was used.
 
-!Architecture images/architecture.png
+![Architecture](images/architecture.png)
 
 ## The business problem
 
