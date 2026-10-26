@@ -6,6 +6,10 @@ An end-to-end data engineering and analytics project on Azure: incremental inges
 
 ![Architecture](images/architecture.png)
 
+![Churn rate by plan](images/ChurnRateByPlan.png)
+![Top markets by listening time](images/topmarketsBylisteningTime.png)
+![Star schema](images/starschema.png)
+
 ## The business problem
 
 A subscription business loses revenue when customers leave and wastes budget when marketing is aimed at the wrong markets. The questions this project answers:
