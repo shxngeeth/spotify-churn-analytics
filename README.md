@@ -100,4 +100,4 @@ SQL · Python · PySpark · Azure Data Factory · Azure Databricks · Delta Lake
 
 ## Author
 
-**Shangeeth Vanniyasingam** · Coventry University · https://www.linkedin.com/in/shangeeth-vanniyasingam-773029284/ · Open to graduate data engineering / data analytics roles in the UK.
+**Shangeeth Vanniyasingam** · https://www.linkedin.com/in/shangeeth-vanniyasingam-773029284/ · Open to graduate data engineering / data analytics roles in the UK.
